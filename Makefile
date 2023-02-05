@@ -1,5 +1,5 @@
 build:
-	docker build -t alekstar79/fa-backgroun .
+	docker build -t alekstar79/fa-background .
 push:
 	docker push alekstar79/fa-background
 pull:
